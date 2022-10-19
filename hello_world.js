@@ -1,2 +1,1 @@
-let sum = 2 + 2 + 6
-console.log(sum)
+console.log("Hello World!")
