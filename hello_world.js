@@ -1,1 +1,2 @@
-console.log("Hello World!");
+let variable = "Hello World!";
+return variable;
