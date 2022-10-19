@@ -1,4 +1,1 @@
-function helloWorld () {
-  let variable = "Hello World"
-  return variable
-}
+console.log("Hello World!")
