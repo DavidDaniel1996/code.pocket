@@ -4,5 +4,5 @@ var requestOptions = {
   };
   
   fetch("https://jsonplaceholder.typicode.com/users", requestOptions)
-    .then(response => response.body)
+    .then(response => console.log(response.body))
     .catch(error => console.log('error', error));
